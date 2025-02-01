@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Software engeneering
+I'm Software engineering
 ### Stats
 ![Santitigaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=santitigaga&show_icons=true&theme=transparent)
 ### Open Source projects
