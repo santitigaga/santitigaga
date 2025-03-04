@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a337365d-7180-458a-8264-f27d5fa4fc73)## Hi there 👋
+## Hi there 👋
 I'm Software engineering
 ### Stats
 ![Santitigaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=santitigaga&show_icons=true&theme=transparent)
